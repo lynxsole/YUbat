@@ -1,0 +1,27 @@
+as coutest présent dans la bibliothèque standard C++, qui nécessiterait une liaison explicite avec -lstdc++lors de l'utilisation de gcc; g++lie la bibliothèque standard par défaut.
+
+Avec gcc, ( g++doit être préféré à gcc)
+
+gcc main.cpp - cree des erreur
+
+gcc main.cpp -lstdc++ -o main.exe - compile le projet en cours
+
+g++ main.cpp -o main.exe - cree un fichier exe
+
+
+doc pole emploi 
+
+une copie de ma carte d'identiter 
+
+attestation d'ebergement
+justificatif d'ebergement
+attestation 
+rib
+photo
+certifiquat medical adiptude a la realisation service civique a pole emploi
+
+17 avenue max dormoi champigny sur marne 
+
+monique
+
+
